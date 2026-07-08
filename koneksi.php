@@ -1,5 +1,5 @@
 <?php
-$host = 'tanayaflorist.freehosting.dev'; // ganti dengan Hostname dari hosting
+$host = 'sql308.infinityfree.com'; // ganti dengan Hostname dari hosting
 $db   = 'if0_42360869_tanaya_florist'; // ganti nama database hosting
 $user = 'if0_42360869';                // ganti username hosting
 $pass = 'WHsl70IqOZ170';   // ganti password hosting
